@@ -59,6 +59,7 @@
 
 **I want to learn**
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-E10098?style=flat-square&logo=gatsby)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter)
