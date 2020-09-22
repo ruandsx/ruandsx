@@ -9,7 +9,7 @@
 
 📚 <strong> I'm always looking for knowledge and adding here the source code of my studies</strong>
 
-🖥 **I'm currently working remote on [Grupo Voitto](https://www.voitto.com.br/), using mainly Node.js, React and React Native**
+🖥 **I'm currently working remote on [Avenue Code](https://www.avenuecode.com/), using mainly Node.js**
 
 ---
 
