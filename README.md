@@ -5,11 +5,11 @@
 
 ## About me
 
-👨‍💻 I'm a Fullstack Developer
+👨‍💻 Software Engineer focused on backend
 
-📚 I'm always looking for knowledge and adding here the source code of my studies
+📚 Always looking for knowledge and adding here the source code of my studies
 
-💻 I'm currently working remote on [Avenue Code](https://www.avenuecode.com/) using mainly Python and [NestJS](https://nestjs.com/), *discovering the universe of Machine Learning* 🤖
+💻 Currently working remote on [Avenue Code](https://www.avenuecode.com/) using mainly Python and Node.js
 
 ---
 ## Knowledge
