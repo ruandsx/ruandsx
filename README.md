@@ -9,7 +9,7 @@
 
 📚 Always looking for knowledge and adding here the source code of my studies
 
-💻 Currently working remote on [Avenue Code](https://www.avenuecode.com/) using mainly Python and Node.js
+💻 Currently working at [Avenue Code](https://www.avenuecode.com/) using mainly Python and Node.js
 
 ---
 ## Knowledge
